@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+<html>
+<head>
+<!-- Primary Meta Tags -->
+<title>Has Google banned Fossil  Ads?</title>
+<meta name="title" content="Has Google banned Fossil  Ads?">
+<meta name="description" content="Has Google banned Fossil Fuel Advertisements? - Click to see the answer.">
 
-You can use the [editor on GitHub](https://github.com/hasGoogleBannedFossilAds/hasGoogleBannedFossilAds.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+<!-- Open Graph / Facebook -->
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://metatags.io/">
+<meta property="og:title" content="Has Google banned Fossil  Ads?">
+<meta property="og:description" content="Has Google banned Fossil Fuel Advertisements? - Click to see the answer.">
+<!-- <meta property="og:image" content="https://metatags.io/assets/meta-tags-16a33a6a8531e519cc0936fbba0ad904e52d35f34a46c97a2c9f6f7dd7d336f2.png">-->
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hasGoogleBannedFossilAds/hasGoogleBannedFossilAds.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<!-- Twitter -->
+<meta property="twitter:card" content="summary_large_
+">
+<meta property="twitter:url" content="https://metatags.io/">
+<meta property="twitter:title" content="Has Google banned Fossil  Ads?">
+<meta property="twitter:description" content="Has Google banned Fossil Fuel Advertisements? - Click to see the answer.">
+<!-- <meta property="twitter:image" content="https://metatags.io/assets/meta-tags-16a33a6a8531e519cc0936fbba0ad904e52d35f34a46c97a2c9f6f7dd7d336f2.png"> -->
+</head>
+<h1>No.</h1>
+</html>
