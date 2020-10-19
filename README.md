@@ -21,10 +21,24 @@
 <!-- <meta property="twitter:image" content="https://metatags.io/assets/meta-tags-16a33a6a8531e519cc0936fbba0ad904e52d35f34a46c97a2c9f6f7dd7d336f2.png"> -->
 </head>
 
-<h1> hasGoogleBannedFossilAds<tiny>(.github.io)</tiny> ?</h1>
+<h3> hasGoogleBannedFossilAds<tiny>(.github.io)</tiny> ?</h3>
 
 
-<large><b>No.</b></large>
+<h1><b>No.</b></h1>
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 <h4> Does what it says on the tin - <a href="https://twitter.com/renewclear1">renewclear1</a></h4>
