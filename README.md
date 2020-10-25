@@ -25,7 +25,7 @@
 <br>
 <br>
 
-<h3> Has Google Banned Fossil Fuel Ads?</h3>
+<h3> Has Google Banned Fossil Fuel Advertisements?</h3>
 
 <h1><b>No.</b></h1>
 
